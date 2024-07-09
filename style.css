@@ -1,0 +1,14 @@
+
+h1{
+    font-size: xx-large;
+    font-style: italic;
+}
+
+#image{
+    height: 600px;
+    width: 500px;
+}
+ 
+body{
+    background: linear-gradient(gray,white,gray);
+}
